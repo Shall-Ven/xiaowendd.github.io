@@ -36,14 +36,15 @@ body{
 .wrap {
 	text-align: center;
 	width:80%;
+	height: 1000px;
 	max-width:80%;
 	border:1px solid black;
 	float: right;
 }
 .tile {
 	width:30%;
-	height:200px;
-	margin:30px;
+	height: 20%;;
+	margin:20px;
 	background-color:rgb(84, 83, 83);
 	display:inline-block;
 	background-size:cover;
