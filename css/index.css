@@ -2,13 +2,13 @@
 body{
 	margin:0 auto;
 	overflow: auto;
-	display:flex;
-	align-items:center;
-	justify-content:center;
+	width: 1200px;
 }
 
 .div-body{
 	float: left;
+	border: 3px solid red;
+	width: 100%;
 }
 
 * {
@@ -41,8 +41,8 @@ body{
 	float: right;
 }
 .tile {
-	width:240px;
-	height:180px;
+	width:200px;
+	height:150px;
 	margin:20px;
 	background-color:rgb(84, 83, 83);
 	display:inline-block;
