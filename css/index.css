@@ -43,8 +43,9 @@ body{
 }
 .tile {
 	width:30%;
-	height: 20%;;
-	margin:20px;
+	height: 20%;
+	margin-top:60px;
+	margin-left: 60px;
 	background-color:rgb(84, 83, 83);
 	display:inline-block;
 	background-size:cover;
